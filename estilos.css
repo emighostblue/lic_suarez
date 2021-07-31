@@ -1,0 +1,23 @@
+.marco{
+    width: 100%;
+    height: 55px;
+    border: 1px solid #5AFAEA;
+    background-color: #56D6F0;
+}
+.caja{
+    padding: 10px 20px;
+    margin: 5px;
+    margin-right: 190px;
+    background-color: #5DE3B0;
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+    display: inline-block;
+    
+}
+.caja:hover{
+    background-color: #5AFA8F;
+}
+.caja:active{
+    background-color: red;
+}
